@@ -8,5 +8,5 @@ def key_for_min_value(name_hash)
     :juventus => 43000
   }
     stadiums.each do |club, capacity|
-      
+
 end
